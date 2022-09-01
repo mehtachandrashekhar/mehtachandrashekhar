@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehtachandrashekhar
 - 👀 I’m interested in web developing
-- 🌱 I’m currently pursuing college degree
+- 🌱 I’m currently pursuing computer engineering degree
 
 - 📫 Email : cskkadi.mc9428@gmail.com
 - Insta id : _chandrashekhar_mehta
