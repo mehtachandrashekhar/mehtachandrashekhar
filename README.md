@@ -26,7 +26,7 @@
 <!-- <a href="https://codeforces.com/profile/chandrashekhar_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chandrashekhar_11" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left">
 <!--   C  -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -58,8 +58,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 <!-- stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtachandrashekhar&show_icons=true&locale=en" alt="mehtachandrashekhar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtachandrashekhar&show_icons=true&locale=en" alt="mehtachandrashekhar" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtachandrashekhar&show_icons=true&locale=en&layout=compact" alt="mehtachandrashekhar" /></p>
 <!-- streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehtachandrashekhar&" alt="mehtachandrashekhar" /></p>
 <!-- stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtachandrashekhar&show_icons=true&locale=en&layout=compact" alt="mehtachandrashekhar" /></p>
+<p></p>
