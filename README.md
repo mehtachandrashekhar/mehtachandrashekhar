@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtachandrashekhar&label=Profile%20views&color=0e75b6&style=flat" alt="mehtachandrashekhar" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehtachandrashekhar" alt="mehtachandrashekhar" /></a> </p> -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehtachandrashekhar" alt="mehtachandrashekhar" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/mehtachandrash1" target="blank"><img src="https://img.shields.io/twitter/follow/mehtachandrash1?logo=twitter&style=for-the-badge" alt="mehtachandrash1" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/mehtachandrash1" target="blank"><img src="https://img.shields.io/twitter/follow/mehtachandrash1?logo=twitter&style=for-the-badge" alt="mehtachandrash1" /></a> </p> 
 
 - 📫 How to reach **me**
 
