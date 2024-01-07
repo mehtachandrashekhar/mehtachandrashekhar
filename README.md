@@ -18,7 +18,7 @@
 <!--   dev  -->
 <a href="https://dev.to/chandrashekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chandrashekhar" height="30" width="40" /></a>
 <!--   twitter -->
-<a href="https://twitter.com/mehtachandrash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehtachandrash1" height="30" width="40" /></a>
+<a href="https://twitter.com/11_chandraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehtachandrash1" height="30" width="40" /></a>
 <!--   linked in -->
 <a href="https://linkedin.com/in/chandrashekhar-mehta-303a91230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrashekhar-mehta-303a91230/" height="30" width="40" /></a>
 <!--   stack overflow -->
