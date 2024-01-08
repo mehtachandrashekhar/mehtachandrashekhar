@@ -5,7 +5,7 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehtachandrashekhar" alt="mehtachandrashekhar" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/11_chandraaa](https://twitter.com/11_chandraaa)" target="blank"><img src="https://img.shields.io/twitter/follow/mehtachandrash1?logo=twitter&style=for-the-badge" alt="mehtachandrash1" /></a> </p> 
+<p align="left"> <a href="[https://twitter.com/11_chandraaa](https://twitter.com/11_chandraaa)" target="blank"><img src="https://img.shields.io/twitter/follow/11_Chandraaa?logo=twitter&style=for-the-badge" alt="11_chandraaa" /></a> </p> 
 
 - 📫 How to reach **me**
 
