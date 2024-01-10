@@ -5,7 +5,7 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehtachandrashekhar" alt="mehtachandrashekhar" /></a> </p>
 
-- 📫 How to reach **me**
+<!--- 📫 How to reach **me** -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
