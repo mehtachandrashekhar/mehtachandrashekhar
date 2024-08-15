@@ -25,12 +25,8 @@
 <a href="https://kaggle.com/chandrashekharmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chandrashekharmehta" height="30" width="40" /></a>
 <!--   facebook -->
 <a href="https://fb.com/chandrashekhar.mehta.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandrashekhar.mehta.11" height="30" width="40" /></a>
-<!--   instagram -->
-<!-- <a href="https://instagram.com/_chandrashekhar_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chandrashekhar_mehta" height="30" width="40" /></a> -->
 <!--   hacker rank -->
 <a href="https://www.hackerrank.com/mehtachandrashe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehtachandrashe1" height="30" width="40" /></a>
-<!--   codeforces -->
-<!-- <a href="https://codeforces.com/profile/chandrashekhar_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chandrashekhar_11" height="30" width="40" /></a>
 </p> -->
 
 ## My Tech Stack 👨‍💻
@@ -59,8 +55,8 @@
         <br>AWS
       </td>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C#
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="C#" width="65" height="65" />
+        <br>Jest
       </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
