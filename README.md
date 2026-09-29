@@ -32,6 +32,12 @@ My experience includes:
 
 ---
 
+## 🏅 Certifications
+
+[![View Certification on Credly](https://img.shields.io/badge/Credly-View%20Certification-0A66C2?style=for-the-badge&logo=credly)](https://www.credly.com/badges/cb86c518-5045-4ca3-88b6-d9dd2a499ea4)
+
+---
+
 ## 🛠️ DevOps & Cloud Stack
 
 ### ☁️ Cloud
